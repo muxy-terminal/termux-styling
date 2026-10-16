@@ -1,7 +1,7 @@
-# termux-styling 0.32.1+muxy.4
+# termux-styling 0.32.1+muxy.5
 
-Coordinated release for muxy 0.119.7. Package identity, shared UID, permissions, and release signer are unchanged. Install over previous muxy-signed builds.
+Coordinated release for muxy 0.119.8. Package name, shared UID, permissions, and private signing certificate are unchanged. Install over earlier muxy-signed builds without uninstalling.
 
-Standalone integration behavior is unchanged. The version code increases to identify this coordinated source-built distribution.
+Standalone runtime behavior is unchanged. The higher version code identifies this coordinated source-built distribution.
 
-Use the same signing family for all Termux apps. Differently signed upstream/F-Droid/Play APKs cannot share muxy UID. Corresponding source, licenses, and checksums accompany the release.
+Differently signed upstream, F-Droid, and Play APKs cannot share muxy UID. Source, licenses, provenance, and checksums accompany the APK.
